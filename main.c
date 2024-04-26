@@ -1,4 +1,7 @@
 #include <stdio.h>
+#include <math.h>
+#include <stdlib.h>
+#include <string.h>
 
 typedef struct
 {
@@ -11,6 +14,7 @@ typedef struct
 
 int main()
 {
+  // Criar um pokémon
   Pokemon Charmander, Bulbasaur, Squirtle;
   return 0;
 }
