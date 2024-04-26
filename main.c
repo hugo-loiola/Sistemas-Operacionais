@@ -11,5 +11,6 @@ typedef struct
 
 int main()
 {
+  Pokemon Charmander, Bulbasaur, Squirtle;
   return 0;
 }
